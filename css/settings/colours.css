@@ -1,6 +1,6 @@
 :root{
-    --backgroundBody:hsl(220, 15%, 55%);
+    --backgroundBody:hsl(212, 45%, 89%);
     --backgroundCard: hsl(0, 0%, 100%);
     --colorCaption:hsl(218, 44%, 22%);
-    --colorParagraph:hsl(212, 45%, 89%);
+    --colorParagraph:hsl(220, 15%, 55%);
 }
