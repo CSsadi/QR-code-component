@@ -1,0 +1,37 @@
+
+.card{
+    width: 275px;
+    padding: 15px;
+   background: var(--backgroundCard);
+   border-radius: 20px;
+}
+
+.container-QR{
+    width: 100%;
+}
+
+.container-texts{
+    margin-top: 20px;
+    font-family: Outfit;
+}
+
+.caption{
+    color: var(--colorCaption);
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.paragraph{
+    color:var(--colorParagraph);
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.attribution{
+    font-family: Outfit;
+    margin-top: 30px;
+    font-weight: bold;
+}

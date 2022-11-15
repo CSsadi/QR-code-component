@@ -1,0 +1,11 @@
+@import "settings/colours.css";
+@import "generic/reset.css";
+@import "base/elements.css";
+@import "components/styles.css";
+
+@media (min-width:375px) {
+    
+    .container{
+        min-width: 375px;
+    }
+}
